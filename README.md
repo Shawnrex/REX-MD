@@ -22,7 +22,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <p align="center">
   <a href="https://github.com/Shawnrex">
-    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=REX-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=REX-MD-+MultiDevice;Developed+by+Shawn+rex;Give+star+and+fork+this+Repo+bro+🌟" alt="ShawnrexReadme">
   </a>
 </p>
 
