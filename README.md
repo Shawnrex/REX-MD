@@ -12,7 +12,7 @@
 
 <h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy Rex-Md On Hugging Face For Free !*
+*⚡ Deploy Rex-Md On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -139,10 +139,10 @@ Stay connected with the latest updates and community by joining our official Wha
 
 > DEVELOPER OF REX-MD 
 - [Shawn rex](https://github.com/Shawnrex)
-- Creater and Owner Of SUBZERO-MD
+- Creater and Owner Of REX-MD
 
 > REX-MD Helper
-- [Frank](https://github.com/Shawnrex)
+- [Shawn](https://github.com/Shawnrex)
 - For helping in bot plugin files.
 ---
 
