@@ -3,11 +3,11 @@
 </p>
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Shawnrex/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shawnrex?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shawnrex/REX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shawnrex/REX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shawnrex/REX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shawnrex/REX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shawnrex/REX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Shawnrex/REX-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/Shawnrex/REX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -21,8 +21,8 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ---
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc">
-    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
+  <a href="https://github.com/Shawnrex">
+    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=REX-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
   </a>
 </p>
 
